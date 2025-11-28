@@ -4,7 +4,7 @@
 	"entityType":"e_interface",
 	"id":"dnd-changeset-app",
 	"lastModifiedBy":37018,
-	"modifiedTime":1764324887994,
+	"modifiedTime":1764324888437,
 	"ownerUserId":37018,
 	"properties":{
 		"standard":false,
@@ -236,7 +236,8 @@
 			]
 		},
 		"interfacePageIdVsSlugMap":{
-			"e_692976178d485d48e16d1dd9":"homepage"
+			"e_692976178d485d48e16d1dd9":"homepage",
+			"e_global_dnd-changeset-app":"global-page-of-dnd-changeset-app"
 		},
 		"manifest":{
 			"type":"WEB"
@@ -251,5 +252,5 @@
 	"tags":[
 		
 	],
-	"version":1
+	"version":2
 }
